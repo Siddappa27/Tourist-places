@@ -1,1 +1,14 @@
-# Tourist-places
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Hello World</h1>
+    <p>This is my website</p>
+</body>
+
+</html>
